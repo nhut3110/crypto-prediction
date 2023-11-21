@@ -1,6 +1,3 @@
-Absolutely! Here's a comprehensive README for your GitHub repository in Markdown format, incorporating the details you've provided:
-
-```markdown
 # Coin Prediction App
 
 This repository contains the full-stack code for a coin prediction application. The backend is built with Python and FastAPI, and the frontend is a React application using Vite.
@@ -61,8 +58,8 @@ The frontend is developed with React and Vite. To set it up, follow these steps:
 
 After setting up both the backend and frontend, the web application will be accessible in your browser. By default:
 
-- The frontend runs at `http://localhost:3000`.
-- The backend server is accessible at `http://localhost:8000`.
+- The frontend runs at `http://localhost:5173`.
+- The backend server is accessible at `http://127.0.0.1:8000`.
 
 Explore the functionalities offered by the application in development mode.
 
@@ -80,11 +77,4 @@ Contributions are what make the open-source community an amazing place to learn,
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your_username/coin-prediction](https://github.com/your_username/coin-prediction)
-```
-
-You can copy this Markdown content and paste it into your GitHub repository's README file. If you have any specific sections or additional information you want to include, feel free to edit and customize it as needed.
